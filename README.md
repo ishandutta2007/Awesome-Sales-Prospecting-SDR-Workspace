@@ -1,29 +1,50 @@
-# Awesome Sales Prospecting & SDR Workspace [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-> A curated directory of leading SaaS platforms and open-source tools for B2B Sales Prospecting, Sales Development Representative (SDR) Workspaces, multi-channel outbound engagement, automated lead enrichment, and AI-driven sales pipelines.
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Sales Prospecting & SDR Workspace Banner" width="100%" />
+</p>
+
+# 🚀 Awesome Sales Prospecting & SDR Workspace
+
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
+<p align="center">
+  <strong>Curated Directory of SaaS Platforms &amp; Open-Source Tools for Outbound Sales, SDR Workspaces, Deliverability, and AI Cadences</strong>
+</p>
+
+</div>
 
 ---
 
-## Sector Overview & Market Dynamics
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [💼 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🧩 Open-Source Ecosystem Breakdown](#-open-source-ecosystem-breakdown)
+- [📈 Star History](#-star-history)
+- [💖 Support & Community](#-support--community)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⚖️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
 
 The global Sales Engagement and Prospecting software market is estimated at **$9.5 billion in 2026** (projected to exceed $18 billion by 2031, growing at a CAGR of ~14.2%). The sector is **moderately fragmented**: while heavyweight platforms like HubSpot, ZoomInfo, Salesforce, and Outreach dominate large enterprise accounts, aggressive unbundling and rapid AI innovation have spurred hyper-competitive specialized tools (e.g., Apollo, Lemlist, Close) and high-growth open-source self-hosted alternatives, preventing a true single winner-take-all monopoly.
 
 ---
 
-## Table of Contents
+## 💼 SaaS / Hosted Platforms
 
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#saas--hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [Open-Source Ecosystem Breakdown](#open-source-ecosystem-breakdown)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
----
-
-## SaaS / Hosted Platforms
-
-| Product | Valuation / Revenue | Starting Pricing | Free Tier / Free Trial Limits | Key Capabilities & SDR Focus |
+| 🏢 Product | 💰 Valuation / Revenue | 🏷️ Starting Pricing | 🎁 Free Tier / Free Trial Limits | ⚡ Key Capabilities & SDR Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[HubSpot Prospecting Workspace](https://www.hubspot.com/)** | ~$32.0B Market Cap (NYSE: HUBS) / ~$2.6B ARR | $20/seat/month (Sales Hub Starter billed annually) or $100/seat/mo (Professional) | **Free Forever Plan**: Up to 5 email templates, 5 snippets, 1 meeting scheduling link, 15 minutes calling/user/month, CRM contact management. | Deeply integrated prospecting workspace within Sales Hub; tracks contact tasks, multi-touch sequences, meetings, and CRM pipelines natively. |
 | **[ZoomInfo Engage](https://www.zoominfo.com/)** | ~$4.5B Market Cap (NASDAQ: ZI) / ~$1.2B ARR | ~$15,000/year platform baseline (~$1,250/month base contract) | **14-day Free Trial**: Capped at 25 verified export credits and limited company searches; requires corporate work email verification. | Top-tier B2B intelligence database combined with dialer, multi-channel sequences, intent signals, and buyer enrichment. |
@@ -38,11 +59,11 @@ The global Sales Engagement and Prospecting software market is estimated at **$9
 
 ---
 
-## Open-Source GitHub Projects
+## ⭐ Open-Source GitHub Projects
 
 Curated open-source SDR engines, automated cold outreach tools, and lead management platforms sorted by GitHub star count:
 
-| Project | Stars | Focus Area | Tech Stack | License | Description |
+| 📦 Project | 🌟 Stars | 🎯 Focus Area | 🛠️ Tech Stack | 📜 License | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[openclaw](https://github.com/openclaw/openclaw)** | [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) | AI Computer Use & Multi-Platform Automation | TypeScript / Node | MIT | Autonomous agent framework that operates desktop and web environments to find leads, execute browser workflows, and navigate CRMs. |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern Extensible CRM & Pipeline OS | TypeScript / NestJS / React | AGPL-3.0 | Modern, self-hosted Salesforce alternative with flexible data modeling, visual workflow builder, and bi-directional API sync for outbound teams. |
@@ -67,20 +88,20 @@ Curated open-source SDR engines, automated cold outreach tools, and lead managem
 
 ---
 
-## Open-Source Ecosystem Breakdown
+## 🧩 Open-Source Ecosystem Breakdown
 
-### 1. Full AI SDR Workspaces & Autonomous Agents
+### 1. 🤖 Full AI SDR Workspaces & Autonomous Agents
 - **[AgentSDR](https://github.com/kandid-ai/agentsdr)**: The premier open-source multi-channel SDR workspace. Integrates Google Workspace mailboxes, LinkedIn via Unipile, and WhatsApp dialing with an AI classification inbox holding drafts for human review.
 - **[Harvey](https://github.com/ethanplusai/harvey)**: Autonomous AI outbound agent that researches prospective accounts, writes bespoke outreach copy, executes campaigns, and automates meeting scheduling.
 - **[openclaw](https://github.com/openclaw/openclaw)**: Foundational multi-platform computer-use AI capable of performing browser-based lead research, scraping, and CRM entry autonomously.
 
-### 2. High-Deliverability Cold Email & Inbox Warmup
+### 2. 📬 High-Deliverability Cold Email & Inbox Warmup
 - **[Warmbly](https://github.com/warmbly/warmbly)**: Dedicated peer-to-peer cold email warmup infrastructure to maintain high inbox deliverability.
 - **[Pigeon](https://github.com/tarinagarwal/Pigeon)**: Sophisticated deliverability stack featuring automated DNS records (SPF, DKIM, DMARC), seed placement testing, inbox rotation, and auto-spam recovery.
 - **[Emareach](https://github.com/ritik-prog/emareach)**: Production-grade cold email server equipped with multi-mailbox rotation and integrated Lemon Squeezy / Razorpay billing.
 - **[Meteor Emails](https://github.com/catin-black/meteor-emails)** & **[Email Automation](https://github.com/PaulleDemon/Email-automation)**: Pure self-hosted alternatives to basic Lemlist/Mailshake campaign dispatchers.
 
-### 3. CRM & Lead Pipeline Foundations
+### 3. 🗄️ CRM & Lead Pipeline Foundations
 - **[Twenty](https://github.com/twentyhq/twenty)**: Sleek modern CRM with composable objects and visual pipelines, acting as an open data backbone for SDR cadences.
 - **[Krayin CRM](https://github.com/krayin/laravel-crm)**: Laravel-powered CRM engineered for high-throughput lead capture, visual Kanban progression, and SDR task assignments.
 - **[Comp AI CRM](https://github.com/trycompai/crm)**: Agent-centric architecture designed specifically for programmatic lead intake and AI copilot interaction.
@@ -88,7 +109,27 @@ Curated open-source SDR engines, automated cold outreach tools, and lead managem
 
 ---
 
-## How to Contribute
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Community
+
+Thank you so much for exploring the **Awesome Sales Prospecting & SDR Workspace** repository! 🌟
+
+If you found this curated list helpful for building your outbound sales stack or discovering open-source alternatives:
+- ⭐ **Star this repository** to show your support and help others discover it!
+- 🍴 **Fork and share** with your SDR teammates, founders, and sales engineering community.
+- 💬 **Join our community** on [Discord](https://discord.gg/jc4xtF58Ve) to discuss outbound tactics and tooling.
+- ☕ **Support the maintainer**: If you'd like to fuel further open-source sales tooling curation and development, consider buying a coffee via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Every bit of encouragement and contribution is deeply appreciated! 🙌
+
+---
+
+## 🤝 How to Contribute
 
 1. Fork this repository.
 2. Add or update tools in `README.md` following the tabular formatting and criteria.
@@ -96,8 +137,8 @@ Curated open-source SDR engines, automated cold outreach tools, and lead managem
 
 ---
 
-## Disclaimer
+## ⚖️ Disclaimer
 
-- This repository is a curated community index for informational and architectural benchmarking purposes.
+- This repository is a **community-curated index** for informational and architectural benchmarking purposes.
 - Outbound sales prospecting and automated cold communication are subject to international privacy and anti-spam legislation (CAN-SPAM, GDPR, CASL, PECR) and communication network terms of service. Users are solely responsible for ensuring outreach deliverability, recipient consent, unsubscribe compliance, and acceptable platform usage.
 - Open-source self-hosted SDR tools provide orchestration, cadence automation, and CRM intelligence; they do not inherently bundle multi-million record B2B contact lists. Enrichment APIs or verified prospecting sources must be integrated independently.
