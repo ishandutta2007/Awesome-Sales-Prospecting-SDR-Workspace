@@ -10,7 +10,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Sales-Prospecting-SDR-Workspace?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -61,9 +61,9 @@ The global Sales Engagement and Prospecting software market is estimated at **$9
 
 ## ⭐ Open-Source GitHub Projects
 
-Curated open-source SDR engines, automated cold outreach tools, and lead management platforms sorted by GitHub star count:
+Curated open-source SDR engines, automated cold outreach tools, and lead management platforms sorted by GitHub Stars_Count:
 
-| 📦 Project | 🌟 Stars | 🎯 Focus Area | 🛠️ Tech Stack | 📜 License | 📝 Description |
+| 📦 Project | 🌟 GitHub_Stars | 🎯 Focus Area | 🛠️ Tech Stack | 📜 License | 📝 Description |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[openclaw](https://github.com/openclaw/openclaw)** | [![Stars](https://img.shields.io/github/stars/openclaw/openclaw?style=social&color=white)](https://github.com/openclaw/openclaw/stargazers) | AI Computer Use & Multi-Platform Automation | TypeScript / Node | MIT | Autonomous agent framework that operates desktop and web environments to find leads, execute browser workflows, and navigate CRMs. |
 | **[Twenty](https://github.com/twentyhq/twenty)** | [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers) | Modern Extensible CRM & Pipeline OS | TypeScript / NestJS / React | AGPL-3.0 | Modern, self-hosted Salesforce alternative with flexible data modeling, visual workflow builder, and bi-directional API sync for outbound teams. |
